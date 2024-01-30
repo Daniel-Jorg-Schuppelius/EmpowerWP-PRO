@@ -5457,6 +5457,16 @@ ul.dropdown-menu.active-line-top-bottom > li:not(.current-menu-item):not(.curren
   border-bottom-style: solid;
 }
 
+.navigation-bar.homepage:not(.coloured-nav) a.text-logo, .navigation-bar.homepage:not(.coloured-nav) #main_menu li.logo > a.text-logo, .navigation-bar.homepage:not(.coloured-nav) #main_menu li.logo > a.text-logo:hover{
+  color: #fff;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 1.6rem;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+}
+
 .navigation-wrapper:not(.gridContainer) {
   padding-left: 5%;
   padding-right: 5%;
