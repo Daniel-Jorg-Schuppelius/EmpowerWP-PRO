@@ -1,4 +1,4 @@
-# EmpowerWP-PRO
+# EmpowerWP-PRO (modified)
 
 === Mesmerize ===
 
